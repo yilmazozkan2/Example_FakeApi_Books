@@ -1,2 +1,16 @@
-# Example_FakeApi_Books
-In this project, books were drawn and processed from the fake api service for learning purposes.
+# example_fakeapi_books
+
+The data of the books will be extracted from the fake api service
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
